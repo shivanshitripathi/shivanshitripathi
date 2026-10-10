@@ -4,11 +4,7 @@
   <h1>👋 Hi, I'm Shivanshi Tripathi</h1>
   <h3>🚀 MCA Student | Aspiring Data Analyst </h3>
 
-  <!-- Profile Stats & Visitor Count -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshitripathi&show_icons=true&theme=radical&hide_border=true" alt="Shivanshi's GitHub Stats" width="410"/>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=shivanshitripathi&color=007acc&style=flat-square" alt="Profile Views"/>
-
+ 
 </div>
 
 ---
