@@ -1,16 +1,76 @@
-## Hi there 👋
+<!-- HEADER SECTION -->
+<div align="center">
 
-<!--
-**shivanshitripathi/shivanshitripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>👋 Hi, I'm Shivanshi Tripathi</h1>
+  <h3>🚀 MCA Student | Aspiring Data Analyst </h3>
 
-Here are some ideas to get you started:
+  <!-- Profile Stats & Visitor Count -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanshitripathi&show_icons=true&theme=radical&hide_border=true" alt="Shivanshi's GitHub Stats" width="410"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=shivanshitripathi&color=007acc&style=flat-square" alt="Profile Views"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+Motivated **Master of Computer Applications (MCA)** student (2024–2026 batch) at Maharishi University of Information Technology and B.Sc. graduate from University of Lucknow. I have completed specialized **AI & Data Science training from NASSCOM Foundation (powered by Capgemini)**. 
+
+I possess hands-on skills in **Python, Data Analysis, Data Visualization (Power BI/Excel), MySQL, and Machine Learning**. I am passionate about analyzing real-world datasets, extracting insights, and building predictive models. I am actively looking for an entry-level IT opportunity to start my career as a Data Professional.
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="left">
+  <!-- Languages & Libraries -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <br/>
+  <!-- Databases & Visualization -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</div>
+
+---
+
+
+---
+
+## 📜 Certifications, Training & Internship
+* 🎓 **Data Analytics Internship** - *Alvionx
+* 🎓 **AI in Data Science Training** – *NASSCOM Foundation (powered by Capgemini)*
+* 🏅 **Data Analytics** – *Deloitte*
+* 🏅 **Data Science and Machine Learning** – *FutureSkills Prime*
+* 🏅 **Data Science** – *Infosys Springboard*
+* 🏅 **Python for Beginners** – *Scaler Topics*
+* 🏅 **Introduction to Computer** – *IIT Bombay (Spoken Tutorial)*
+
+---
+
+## 🎓 Education
+
+* 🎓 **Master of Computer Applications (MCA)** | Maharishi University of Information Technology *(2024 – 2026)*
+* 🎓 **Bachelor of Science (B.Sc.)** | University of Lucknow *(2021 – 2024)*
+
+---
+
+## 📬 Connect with Me
+
+<div align="left">
+  <a href="mailto:tripathishivanshi659@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tripathishivanshi659@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivanshi-tripathi-21b84836a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivanshi_Tripathi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/shivanshitripathi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-shivanshitripathi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
