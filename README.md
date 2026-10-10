@@ -2,7 +2,7 @@
 <div align="center">
 
   <h1>👋 Hi, I'm Shivanshi Tripathi</h1>
-  <h3>🚀 MCA Student | Aspiring Data Analyst </h3>
+  <h3>🚀 Aspiring Data Analyst </h3>
 
  
 </div>
@@ -11,9 +11,9 @@
 
 ## 👩‍💻 About Me
 
-Motivated **Master of Computer Applications (MCA)** student (2024–2026 batch) at Maharishi University of Information Technology and B.Sc. graduate from University of Lucknow. I have completed specialized **AI & Data Science training from NASSCOM Foundation (powered by Capgemini)**. 
+Motivated **Master of Computer Applications (MCA)** student (2024–2026 batch) at Maharishi University of Information Technology and B.Sc. graduate from University of Lucknow. Experienced as a **Data Analytics Intern at Alvionx**, with hands-on expertise in data collection, cleaning, SQL queries, Excel analytics, and dynamic **Power BI dashboards**. 
 
-I possess hands-on skills in **Python, Data Analysis, Data Visualization (Power BI/Excel), MySQL, and Machine Learning**. I am passionate about analyzing real-world datasets, extracting insights, and building predictive models. I am actively looking for an entry-level IT opportunity to start my career as a Data Professional.
+Proficient in Python, data analysis, and translating raw datasets into actionable business insights. I am actively looking for an entry-level **Data Analyst** opportunity to start my career and drive data-driven decision-making.
 ---
 
 ## 🛠️ Tech Stack & Skills
